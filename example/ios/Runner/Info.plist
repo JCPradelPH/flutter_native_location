@@ -43,12 +43,12 @@
 	<false/>
 
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>OBizHub needs to access your location for optimized app experience</string>
+	<string>Flutter Native Location needs to access your location for optimized app experience</string>
 	
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>OBizHub needs to access your location for optimized app experience</string>
+	<string>Flutter Native Location needs to access your location for optimized app experience</string>
 	
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>OBizHub needs to access your location for optimized app experience</string>
+	<string>Flutter Native Location needs to access your location for optimized app experience</string>
 </dict>
 </plist>
