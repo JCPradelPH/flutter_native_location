@@ -4,7 +4,7 @@ A demo plugin for Flutter that uses Method and Event Channels to communicate wit
 
 # This plugin is intended for demo purposes only.
 
-![](https://firebasestorage.googleapis.com/v0/b/github-demo-9415c.appspot.com/o/final.gif?alt=media&token=7e6bec3b-79aa-4a1c-9897-63a262f7d8e7)
+
 
 ## Installing The Plugin
 To use this plugin, add it as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/). For example:
